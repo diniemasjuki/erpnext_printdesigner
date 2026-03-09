@@ -8,5 +8,8 @@
     "@interactjs/interact": "^1.10.17",
     "@interactjs/modifiers": "^1.10.17",
     "html2canvas": "^1.4.1"
+  },
+  "devDependencies": {
+    "baseline-browser-mapping": "^2.10.0"
   }
 }
